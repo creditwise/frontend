@@ -8,10 +8,10 @@ This approach is for development integrated with Android Studios
   - [bind to bin](https://docs.flutter.dev/get-started/install/macos/mobile-android#add-flutter-to-your-path≠)
     diagnose using `$ flutter doctor --android-licenses`
   - The important ones are:
-    - [✓] Flutter (Channel stable, 3.27.1, on macOS 15.1.1 24B2091 darwin-arm64, locale zh-Hant-SG)
-      [✓] Android toolchain - develop for Android devices (Android SDK version 34.0.0)
-      [✓] Android Studio (version 2024.2)
-      [✓] Connected device (3 available)
+    - [✓] Flutter (Channel stable, 3.27.1, on macOS 15.1.1 24B2091 darwin-arm64, locale zh-Hant-SG) \
+      [✓] Android toolchain - develop for Android devices (Android SDK version 34.0.0) \
+      [✓] Android Studio (version 2024.2) \
+      [✓] Connected device (3 available) \
       [✓] Network resources
   - some config fixes
     ```
