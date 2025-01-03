@@ -1,6 +1,7 @@
 # Development
 
-This approach is for development integrated with Android Studios
+This approach is for development integrated with Android Studios. The project structure is created by `flutter create .`
+
 ### Setting up IDE
 ### Requirements
 - [Android Studio](https://developer.android.com/studio/install?hl=zh-tw#mac)
